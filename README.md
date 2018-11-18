@@ -10,13 +10,13 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
-Description of your Plugin
+Jarvis OpenWeatherMap weather info plugin
 
 ## Usage
 ```
-You: example of how to trigger the command
+You: what's the weather
 Jarvis: output from Jarvis
 ```
 
 ## Author
-[your name](http://your.website)
+[degami](https://github.com/degami)

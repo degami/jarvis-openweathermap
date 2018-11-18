@@ -11,12 +11,12 @@
 
 pg_ow_lang () {
     case "$1" in
-        now_temp_is) echo "temperature is";;
-        max_temp_is) echo "maximum temperature is";;
-        min_temp_is) echo "minimum temperature is";;
-        celsius) echo "celsius";;
-        the_day) echo "the day";;
-        strong_wind_alert) echo "Beware the strong wind";;
-        too_far_in_the_future) echo "Too far in the future";;
+        now_temp_is) echo "la temperatura è";;
+        max_temp_is) echo "la massima è";;
+        min_temp_is) echo "la minima è";;
+        celsius) echo "gradi";;
+        the_day) echo "il giorno";;
+        strong_wind_alert) echo "Fai attenzione al forte vento";;
+        too_far_in_the_future) echo "Troppi giorni avanti nel tempo";;
     esac
 } 
